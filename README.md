@@ -3,7 +3,7 @@
 This repository contains a Sentiment Classification Pipeline built using a Transfer Learning approach with a BERT-based model fine-tuned specifically for the Marathi language.
 
 ## Model Overview
-**Base Model:** The pipeline leverages the l3cube-pune/marathi-roberta, a BERT-based transformer model pre-trained on Marathi text data.
+**Base Model:** The pipeline leverages the [l3cube-pune/marathi-roberta](https://https://huggingface.co/l3cube-pune/marathi-roberta), a BERT-based transformer model pre-trained on Marathi text data.
 
 **Transfer Learning:** I employed Transfer Learning to adapt this pre-trained transformer model. By fine-tuning it on a custom dataset tailored for sentiment classification, the model is better equipped to accurately predict sentiment in Marathi text.
 
