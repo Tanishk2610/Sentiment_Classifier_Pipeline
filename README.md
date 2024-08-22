@@ -30,3 +30,7 @@ To further enhance the performance of the Sentiment Classification Pipeline, the
 To improve generalization and model performance on unseen data, similar categories will be merged. For instance, the existing categories "angry," "negative,angry," and "Negative" will be consolidated into a single "Negative" class. This will help in creating a more balanced dataset and a more effective model for sentiment classification.
 
 These enhancements will contribute to better model accuracy, particularly when dealing with varied and previously unseen Marathi text data.
+
+## Screenshots
+
+![Screenshot (432)](https://github.com/user-attachments/assets/7ee1a41a-360c-4b81-af34-e42ee0a92b66)
