@@ -25,6 +25,7 @@ To further enhance the performance of the Sentiment Classification Pipeline, the
 ### Data Preprocessing:
 
 **Duplicate Removal:** The dataset will undergo additional preprocessing to identify and remove duplicate entries, ensuring cleaner and more reliable data for training.
+
 **Class Balancing:** The dataset will be balanced so that each class has a similar representation. This step is crucial to avoid bias towards any particular sentiment during classification.
 ### Class Consolidation:
 
