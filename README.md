@@ -11,6 +11,7 @@ This repository contains a Sentiment Classification Pipeline built using a Trans
 Features
 
 **Language Detection:** Automatically detects whether the input text is in Marathi.
+
 **Sentiment Analysis:** Provides a sentiment score and the corresponding label for Marathi text.
 
 **Custom Fine-Tuning:** Fine-tuning on a specific dataset enhances the model's performance in classifying sentiments accurately for Marathi.
